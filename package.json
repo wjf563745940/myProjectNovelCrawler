@@ -1,0 +1,15 @@
+{
+  "name": "node-crawler",
+  "version": "1.0.0",
+  "description": "crwaler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bufferhelper": "^0.2.1",
+    "iconv-lite": "^0.4.18"
+  }
+}
